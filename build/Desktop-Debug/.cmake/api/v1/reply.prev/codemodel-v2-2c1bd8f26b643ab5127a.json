@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6a772aa4e9f1ba45dd13.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtAppForCam-LSY201-TTL-INF",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtAppForCam-LSY201-TTL-INF::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtAppForCam-LSY201-TTL-INF-Debug-9b5823519e4296439785.json",
+					"name" : "QtAppForCam-LSY201-TTL-INF",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtAppForCam-LSY201-TTL-INF_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtAppForCam-LSY201-TTL-INF_autogen-Debug-e8727e356f04798a4588.json",
+					"name" : "QtAppForCam-LSY201-TTL-INF_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug",
+		"source" : "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

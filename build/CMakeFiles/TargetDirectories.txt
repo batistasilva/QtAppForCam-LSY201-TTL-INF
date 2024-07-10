@@ -1,0 +1,8 @@
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/edit_cache.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/rebuild_cache.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/list_install_components.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/install.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/install/local.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/install/strip.dir
+/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/QtAppForCam-LSY201-TTL-INF_autogen.dir

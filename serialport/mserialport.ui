@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MSerialPort</class>
+ <widget class="QDialog" name="MSerialPort">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>822</width>
+    <height>460</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="gBoxContent">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>70</y>
+     <width>801</width>
+     <height>341</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Comunicação com a Porta</string>
+   </property>
+   <widget class="QPushButton" name="pbSendCommand">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>30</y>
+      <width>80</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Enviar--&gt;&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="leCommand">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>30</y>
+      <width>191</width>
+      <height>23</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pBCommandClean">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>310</y>
+      <width>80</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Limpar</string>
+    </property>
+   </widget>
+   <widget class="QScrollArea" name="slAreaQlineEdit">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>59</y>
+      <width>511</width>
+      <height>241</height>
+     </rect>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="scrollAreaWidgetContents">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>509</width>
+       <height>239</height>
+      </rect>
+     </property>
+     <widget class="QPlainTextEdit" name="pTEditCommand">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>491</width>
+        <height>221</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>9</pointsize>
+       </font>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QLabel" name="qlabelPic">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>60</y>
+      <width>261</width>
+      <height>241</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pbGetPic">
+    <property name="geometry">
+     <rect>
+      <x>560</x>
+      <y>30</y>
+      <width>100</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Save to Image</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pbSaveToVideo">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>30</y>
+      <width>100</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Save to Video</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pbStopSaveToVideo">
+    <property name="geometry">
+     <rect>
+      <x>589</x>
+      <y>310</y>
+      <width>120</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Stop Save to Video</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QToolButton" name="tBOpenPort">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>10</y>
+     <width>70</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>...</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../../system/WorkSpace/QtProjects/QtImage/QtAppSerialPort/Images/SerialPortConnect.png</normaloff>../../../../../system/WorkSpace/QtProjects/QtImage/QtAppSerialPort/Images/SerialPortConnect.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>60</width>
+     <height>60</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditStatus">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>12</y>
+     <width>211</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Desconhecido...</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>pbSendCommand</sender>
+   <signal>clicked()</signal>
+   <receiver>MSerialPort</receiver>
+   <slot>sendCommand()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>59</x>
+     <y>110</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>334</x>
+     <y>229</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>tBOpenPort</sender>
+   <signal>clicked()</signal>
+   <receiver>MSerialPort</receiver>
+   <slot>runConnect()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>284</x>
+     <y>39</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>334</x>
+     <y>229</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pBCommandClean</sender>
+   <signal>clicked()</signal>
+   <receiver>MSerialPort</receiver>
+   <slot>runCleanArea()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>59</x>
+     <y>390</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>410</x>
+     <y>229</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pbGetPic</sender>
+   <signal>clicked()</signal>
+   <receiver>MSerialPort</receiver>
+   <slot>saveToImage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>629</x>
+     <y>110</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>410</x>
+     <y>229</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pbSaveToVideo</sender>
+   <signal>clicked()</signal>
+   <receiver>MSerialPort</receiver>
+   <slot>saveToVideo()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>729</x>
+     <y>109</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>410</x>
+     <y>229</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pbStopSaveToVideo</sender>
+   <signal>clicked()</signal>
+   <receiver>MSerialPort</receiver>
+   <slot>stopSaveToVideo()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>658</x>
+     <y>389</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>410</x>
+     <y>229</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>sendCommand()</slot>
+  <slot>runConnect()</slot>
+  <slot>runCleanArea()</slot>
+  <slot>saveToImage()</slot>
+  <slot>saveToVideo()</slot>
+  <slot>stopSaveToVideo()</slot>
+ </slots>
+</ui>
