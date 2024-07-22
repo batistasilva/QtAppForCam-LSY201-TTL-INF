@@ -16,13 +16,13 @@ SerialPortSettings::~SerialPortSettings()
 
 void SerialPortSettings::loadAppSettings()
 {
-    MngSPortSetting app_setting;
-    portname = app_setting.getSerialPort();
-    baudrate = app_setting.getBaudRate().toInt();
-    databits = app_setting.getDataBits().toInt();
-    parity   = app_setting.getParity().toInt();
-    stopbits = app_setting.getStopBits().toInt();
-    flowcontrol = app_setting.getFlowControl().toInt();
+    // MngSPortSetting app_setting;
+    // portname = app_setting.getSerialPort();
+    // baudrate = app_setting.getBaudRate().toInt();
+    // databits = app_setting.getDataBits().toInt();
+    // parity   = app_setting.getParity().toInt();
+    // stopbits = app_setting.getStopBits().toInt();
+    // flowcontrol = app_setting.getFlowControl().toInt();
 
 }
 
@@ -187,6 +187,86 @@ void SerialPortSettings::populateFlowControl()
         ui->cbBoxSPFlowControl->addItem(item);
         ui->cbBoxSPFlowControl->setStyleSheet("QComboBox {padding-left: 30px;}");
     }
+}
+
+QSerialPort::DataBits SerialPortSettings::getMDataBits(const qint8 mdatabits)
+{
+    if(mdatabits == 5) return QSerialPort::Data5;
+    if(mdatabits == 6) return QSerialPort::Data6;
+    if(mdatabits == 7) return QSerialPort::Data7;
+    if(mdatabits == 8) return QSerialPort::Data8;
+}
+
+QSerialPort::Parity SerialPortSettings::getMDataParity(const qint8 mdataparity)
+{
+    if(mdataparity == 0) return QSerialPort::NoParity;
+    if(mdataparity == 2) return QSerialPort::EvenParity;
+    if(mdataparity == 3) return QSerialPort::OddParity;
+    if(mdataparity == 4) return QSerialPort::SpaceParity;
+    if(mdataparity == 5) return QSerialPort::MarkParity;
+}
+
+QSerialPort::StopBits SerialPortSettings::getMStopBits(const qint8 mstopbits)
+{
+    if(mstopbits == 1) return QSerialPort::OneStop;
+    if(mstopbits == 3) return QSerialPort::OneAndHalfStop;
+    if(mstopbits == 2) return QSerialPort::TwoStop;
+}
+
+QSerialPort::FlowControl SerialPortSettings::getMFlowControl(const qint8 mflowctrol)
+{
+    if(mflowctrol == 0) return QSerialPort::NoFlowControl;
+    if(mflowctrol == 1) return QSerialPort::HardwareControl;
+    if(mflowctrol == 2) return QSerialPort::SoftwareControl;
+}
+
+void SerialPortSettings::runConfigTest()
+{
+    qDebug() << "Run Config Test()" << "\n";
+    QSerialPort serial;
+
+    // serial.setPortName(currentPortName);
+    // serial.setBaudRate(serial.Baud19200);
+    serial.setPortName(ui->cbBoxSPortName->currentText());
+    serial.setBaudRate(ui->cbBoxSBaudRate->currentText().toInt());
+
+    databits = ui->cbBoxSPDataBits->currentText().toInt();
+    serial.setDataBits(getMDataBits(databits));
+
+    parity = ui->cbBoxSPParity->currentText().toInt();
+    serial.setParity(getMDataParity(parity));
+
+    stopbits = ui->cbBoxSPStopBits->currentText().toInt();
+    serial.setStopBits(getMStopBits(stopbits));
+
+    flowcontrol = ui->cbBoxSPFlowControl->currentText().toInt();
+    serial.setFlowControl(getMFlowControl(flowcontrol));
+
+
+    if (!serial.open(QIODevice::ReadWrite)) {
+        qDebug() << tr("Can't open %1, error code %2").arg(ui->cbBoxSPortName->currentText()).arg(serial.error());
+        return;
+    }else{
+        qDebug() << "Serial Port Opened Successfully..." << "\n";
+    }
+
+    serial.close();
+
+}
+
+void SerialPortSettings::runSaveConfig()
+{
+    qDebug() << "Run Save Config()" << "\n";
+
+    MngSPortSetting app_setting;
+
+    app_setting.setSerialPort(ui->cbBoxSPortName->currentText());
+    app_setting.setBaudRate(ui->cbBoxSBaudRate->currentText());
+    app_setting.setDataBits(ui->cbBoxSPDataBits->currentText());
+    app_setting.setParity(ui->cbBoxSPParity->currentText());
+    app_setting.setStopBits(ui->cbBoxSPStopBits->currentText());
+    app_setting.setFlowControl(ui->cbBoxSPFlowControl->currentText());
+
 }
 
 

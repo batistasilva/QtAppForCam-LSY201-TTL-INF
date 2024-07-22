@@ -166,7 +166,7 @@
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>../../../../../system/WorkSpace/QtProjects/QtImage/QtAppSerialPort/Images/SerialPortConnect.png</normaloff>../../../../../system/WorkSpace/QtProjects/QtImage/QtAppSerialPort/Images/SerialPortConnect.png</iconset>
+     <normaloff>../Images/vspc-icon-256-3061434391.png</normaloff>../Images/vspc-icon-256-3061434391.png</iconset>
    </property>
    <property name="iconSize">
     <size>

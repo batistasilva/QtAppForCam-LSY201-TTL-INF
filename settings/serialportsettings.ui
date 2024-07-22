@@ -196,7 +196,7 @@
   <widget class="QToolButton" name="toolBSPSettingSave">
    <property name="geometry">
     <rect>
-     <x>200</x>
+     <x>160</x>
      <y>190</y>
      <width>70</width>
      <height>48</height>
@@ -206,8 +206,8 @@
     <string>Save...</string>
    </property>
    <property name="icon">
-    <iconset>
-     <normaloff>Images/48x48/Save-as-48x48.png</normaloff>Images/48x48/Save-as-48x48.png</iconset>
+    <iconset resource="../mimages.qrc">
+     <normaloff>:/Images/120x120/120px-System-floppy.png</normaloff>:/Images/120x120/120px-System-floppy.png</iconset>
    </property>
    <property name="iconSize">
     <size>
@@ -219,7 +219,7 @@
   <widget class="QToolButton" name="toolBSPSettingTest">
    <property name="geometry">
     <rect>
-     <x>30</x>
+     <x>80</x>
      <y>190</y>
      <width>70</width>
      <height>48</height>
@@ -229,8 +229,8 @@
     <string>Test...</string>
    </property>
    <property name="icon">
-    <iconset>
-     <normaloff>Images/48x48/Save-as-48x48.png</normaloff>Images/48x48/Save-as-48x48.png</iconset>
+    <iconset resource="../mimages.qrc">
+     <normaloff>:/Images/120x120/120px-Gtk-refresh.png</normaloff>:/Images/120x120/120px-Gtk-refresh.png</iconset>
    </property>
    <property name="iconSize">
     <size>
@@ -240,6 +240,45 @@
    </property>
   </widget>
  </widget>
- <resources/>
- <connections/>
+ <resources>
+  <include location="../mimages.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>toolBSPSettingTest</sender>
+   <signal>pressed()</signal>
+   <receiver>SerialPortSettings</receiver>
+   <slot>runConfigTest()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>114</x>
+     <y>213</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>161</x>
+     <y>129</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>toolBSPSettingSave</sender>
+   <signal>pressed()</signal>
+   <receiver>SerialPortSettings</receiver>
+   <slot>runSaveConfig()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>194</x>
+     <y>213</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>161</x>
+     <y>129</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>runConfigTest()</slot>
+  <slot>runSaveConfig()</slot>
+ </slots>
 </ui>

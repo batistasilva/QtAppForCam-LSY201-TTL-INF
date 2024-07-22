@@ -18,7 +18,7 @@ void MngSPortSetting::loadSettings()
  * @param m_port Example: (Com1, Com2, or /dev/ttyS1, /dev/ttyACM0
  * Setting the preferred serial port for the configuration file.
  */
-void MngSPortSetting::setSerialPort(QString &m_port)
+void MngSPortSetting::setSerialPort(QString m_port)
 {
     m_settings->setValue("Serial Port", m_port);
 }
@@ -44,7 +44,7 @@ QString MngSPortSetting::defaultSerialPort()
  * @brief MngSPortSetting::setBaudRate
  * @param m_baudrate
  */
-void MngSPortSetting::setBaudRate(QString &m_baudrate)
+void MngSPortSetting::setBaudRate(QString m_baudrate)
 {
     m_settings->setValue("BaudRate", m_baudrate);
 }
@@ -71,7 +71,7 @@ QString MngSPortSetting::defaultBaudRate()
  * @brief MngSPortSetting::setDataBits
  * @param m_databits
  */
-void MngSPortSetting::setDataBits(QString &m_databits)
+void MngSPortSetting::setDataBits(QString m_databits)
 {
    m_settings->setValue("DataBits", m_databits);
 }
@@ -98,7 +98,7 @@ QString MngSPortSetting::defaulDataBits()
  * @brief MngSPortSetting::setParity
  * @param m_parity
  */
-void MngSPortSetting::setParity(QString &m_parity)
+void MngSPortSetting::setParity(QString m_parity)
 {
     m_settings->setValue("Parity", m_parity);
 }
@@ -125,7 +125,7 @@ QString MngSPortSetting::defaulParity()
  * @brief MngSPortSetting::setStopBits
  * @param m_stopbits
  */
-void MngSPortSetting::setStopBits(QString &m_stopbits)
+void MngSPortSetting::setStopBits(QString m_stopbits)
 {
    m_settings->setValue("StopBits", m_stopbits);
 }
@@ -152,7 +152,7 @@ QString MngSPortSetting::defaulStopBits()
  * @brief MngSPortSetting::setFlowControl
  * @param m_flowcontrol
  */
-void MngSPortSetting::setFlowControl(QString &m_flowcontrol)
+void MngSPortSetting::setFlowControl(QString m_flowcontrol)
 {
    m_settings->setValue("FlowControl", m_flowcontrol);
 }

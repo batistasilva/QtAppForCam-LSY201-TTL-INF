@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o.d"
   "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o.d"
   "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/main.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o.d"
   "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mainwindow.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o.d"

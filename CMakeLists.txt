@@ -39,6 +39,7 @@ add_executable(QtAppForCam-LSY201-TTL-INF
    uvideo/videoutil.cpp
    uvideo/videoutil.h
    settings/mngsportsetting.h settings/mngsportsetting.cpp
+   mimages.qrc
 )
 target_link_libraries(QtAppForCam-LSY201-TTL-INF
         Qt::Core
