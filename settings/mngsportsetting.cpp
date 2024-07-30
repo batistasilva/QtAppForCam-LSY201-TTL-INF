@@ -2,14 +2,17 @@
 
 MngSPortSetting::MngSPortSetting(QObject *parent)
     : QObject(parent)
+#ifndef WITH_PORTABLE_MODE
+    , m_settings(new QSettings(this))
+#else
+    , m_settings(QFile::exists(AppSettings::portableConfigName()) ? new QSettings(AppSettings::portableConfigName(), QSettings::IniFormat, this) : new QSettings(this))
+#endif
 {
-        m_setting_file = QApplication::applicationDirPath() + "/sport-settings.ini";
+        // m_setting_file = QApplication::applicationDirPath() + "/sport-settings.ini";
 }
 
 void MngSPortSetting::loadSettings()
 {
-    QSettings settings(m_setting_file, QSettings::NativeFormat);
-    QString sText = settings.value("text", "").toString();
 }
 
 

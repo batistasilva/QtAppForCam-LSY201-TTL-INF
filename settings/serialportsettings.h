@@ -25,10 +25,11 @@ public:
     void populateParity();
     void populateStopBits();
     void populateFlowControl();
-    QSerialPort::DataBits getMDataBits(const qint8 mdatabits);
-    QSerialPort::Parity getMDataParity(const qint8 mdataparity);
-    QSerialPort::StopBits getMStopBits(const qint8 mstopbits);
-    QSerialPort::FlowControl getMFlowControl(const qint8 mflowctrol);
+    QSerialPort::BaudRate getMBaudRate(const QString mbaudrate);
+    QSerialPort::DataBits getMDataBits(const QString mdatabits);
+    QSerialPort::Parity getMDataParity(const QString mdataparity);
+    QSerialPort::StopBits getMStopBits(const QString mstopbits);
+    QSerialPort::FlowControl getMFlowControl(const QString mflowctrol);
 
 private slots:
     void runConfigTest();
@@ -37,11 +38,7 @@ private slots:
 private:
     Ui::SerialPortSettings * ui;
     QString portname;
-    int baudrate;
-    int databits;
-    int parity;
-    int stopbits;
-    int flowcontrol;
+
 
 };
 
