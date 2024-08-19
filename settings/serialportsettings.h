@@ -25,6 +25,7 @@ public:
     void populateParity();
     void populateStopBits();
     void populateFlowControl();
+    void populateAllCombobox();
     QSerialPort::BaudRate getMBaudRate(const QString mbaudrate);
     QSerialPort::DataBits getMDataBits(const QString mdatabits);
     QSerialPort::Parity getMDataParity(const QString mdataparity);
@@ -34,6 +35,11 @@ public:
 private slots:
     void runConfigTest();
     void runSaveConfig();
+    void restoreDefaultConfig();
+    void sendCommanToMain();
+
+signals:
+    void askTextSignalToMain();
 
 private:
     Ui::SerialPortSettings * ui;

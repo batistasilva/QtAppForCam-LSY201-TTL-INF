@@ -8,7 +8,6 @@ MngSPortSetting::MngSPortSetting(QObject *parent)
     , m_settings(QFile::exists(AppSettings::portableConfigName()) ? new QSettings(AppSettings::portableConfigName(), QSettings::IniFormat, this) : new QSettings(this))
 #endif
 {
-        // m_setting_file = QApplication::applicationDirPath() + "/sport-settings.ini";
 }
 
 void MngSPortSetting::loadSettings()
@@ -67,7 +66,7 @@ QString MngSPortSetting::getBaudRate() const
  */
 QString MngSPortSetting::defaultBaudRate()
 {
-    return "9600";
+    return "Baud19200";
 }
 
 /**
@@ -94,7 +93,7 @@ QString MngSPortSetting::getDataBits() const
  */
 QString MngSPortSetting::defaulDataBits()
 {
-    return "8";
+    return "Data8";
 }
 
 /**
@@ -121,7 +120,7 @@ QString MngSPortSetting::getParity() const
  */
 QString MngSPortSetting::defaulParity()
 {
-    return "0";
+    return "NoParity";
 }
 
 /**
@@ -148,7 +147,7 @@ QString MngSPortSetting::getStopBits() const
  */
 QString MngSPortSetting::defaulStopBits()
 {
-    return "1";
+    return "OneStop";
 }
 
 /**
@@ -175,5 +174,5 @@ QString MngSPortSetting::getFlowControl() const
  */
 QString MngSPortSetting::defaulFlowControl()
 {
-    return "0";
+    return "NoFlowControl............";
 }

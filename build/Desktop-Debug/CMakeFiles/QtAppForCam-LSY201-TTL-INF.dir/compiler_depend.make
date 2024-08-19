@@ -394,6 +394,34 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/moc
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qcursor.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabwidget.h \
+  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QDialog \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPortInfo \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportinfo.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportglobal.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qtserialportexports.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPort \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialport.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h \
+  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSettings \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsettings.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreevent.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qeventloop.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qnativeinterface.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication_platform.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qinputmethod.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qlocale.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication_platform.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
   QtAppForCam-LSY201-TTL-INF_autogen/YN6D6BICVT/moc_receiverthread.cpp \
   /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/receiverthread.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/QMutex \
@@ -418,35 +446,8 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/moc
   /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/senderthread.h \
   QtAppForCam-LSY201-TTL-INF_autogen/YPB6MEUM2W/moc_mngsportsetting.cpp \
   /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSettings \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsettings.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
-  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreevent.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qeventloop.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qnativeinterface.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication_platform.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtGui/qinputmethod.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qlocale.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication_platform.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
   QtAppForCam-LSY201-TTL-INF_autogen/YPB6MEUM2W/moc_serialportsettings.cpp \
-  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QDialog \
-  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPortInfo \
-  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportinfo.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportglobal.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qtserialportexports.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPort \
-  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialport.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h \
-  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.h
+  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.h
 
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/main.cpp \
   /usr/include/stdc-predef.h \
@@ -837,17 +838,6 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o: /home/system/WorkSpace/QtP
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qcursor.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabwidget.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
-  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreevent.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qeventloop.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qnativeinterface.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication_platform.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtGui/qinputmethod.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qlocale.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication_platform.h \
   /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
@@ -863,6 +853,17 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o: /home/system/WorkSpace/QtP
   /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/QSettings \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qsettings.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreevent.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qeventloop.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qnativeinterface.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication_platform.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qinputmethod.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qlocale.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication_platform.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h
 
@@ -1255,9 +1256,21 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: /home/system/WorkSpa
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qcursor.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabwidget.h \
-  QtAppForCam-LSY201-TTL-INF_autogen/include/ui_mainwindow.h \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariant \
-  /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariant.h \
+  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QDialog \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPortInfo \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportinfo.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportglobal.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qtserialportexports.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPort \
+  /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialport.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h \
+  /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSettings \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsettings.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
@@ -1269,7 +1282,17 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: /home/system/WorkSpa
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qinputmethod.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qlocale.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication_platform.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
+  QtAppForCam-LSY201-TTL-INF_autogen/include/ui_mainwindow.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariant \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariant.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/QAction \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/qaction.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenu \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenu.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenuBar \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenubar.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenu.h \
@@ -5298,8 +5321,6 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o: /home/system/W
 
 /usr/local/include/opencv4/opencv2/stitching/warpers.hpp:
 
-/usr/local/include/opencv4/opencv2/stitching.hpp:
-
 /usr/local/include/opencv4/opencv2/photo.hpp:
 
 /usr/local/include/opencv4/opencv2/objdetect/aruco_board.hpp:
@@ -5473,8 +5494,6 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o: /home/system/W
 /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextoption.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextformat.h:
-
-/usr/include/x86_64-linux-gnu/qt6/QtGui/qtextcursor.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtGui/qsurface.h:
 
@@ -5783,6 +5802,12 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o: /home/system/W
 /usr/include/c++/12/bits/codecvt.h:
 
 /usr/include/x86_64-linux-gnu/c++/12/bits/messages_members.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/12/include/avx512dqintrin.h:
+
+/usr/include/x86_64-linux-gnu/c++/12/bits/time_members.h:
+
+/usr/include/c++/12/bits/locale_facets_nonio.h:
 
 /usr/include/ctype.h:
 
@@ -6392,8 +6417,6 @@ QtAppForCam-LSY201-TTL-INF_autogen/include/ui_mainwindow.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPort:
 
-/usr/include/c++/12/bits/locale_facets_nonio.h:
-
 /usr/include/c++/12/bits/ostream.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
@@ -6423,6 +6446,10 @@ QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /usr/include/x86_64-linux-gnu/bits/endian.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qnumeric.h:
+
+/usr/local/include/opencv4/opencv2/stitching.hpp:
+
+/usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenu:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qsemaphore.h:
 
@@ -7010,33 +7037,19 @@ QtAppForCam-LSY201-TTL-INF_autogen/YN6D6BICVT/moc_senderthread.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qdir.h:
 
-QtAppForCam-LSY201-TTL-INF_autogen/YN6D6BICVT/moc_receiverthread.cpp:
+/usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportinfo.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qvarianthash.h:
+/usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qtserialportexports.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qjniobject.h:
+/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyle.h:
+/usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialport.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qtsan_impl.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qcborcommon.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/QThread:
+/usr/include/asm-generic/errno.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qassociativeiterable.h:
-
-/usr/include/c++/12/mutex:
-
-/usr/local/include/opencv4/opencv2/objdetect/face.hpp:
-
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qdeadlinetimer.h:
-
-/usr/include/c++/12/bits/std_mutex.h:
-
-/usr/include/c++/12/bits/atomic_futex.h:
-
-QtAppForCam-LSY201-TTL-INF_autogen/YPB6MEUM2W/moc_mngsportsetting.cpp:
-
-/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyleoption.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication:
 
@@ -7072,25 +7085,47 @@ QtAppForCam-LSY201-TTL-INF_autogen/YPB6MEUM2W/moc_mngsportsetting.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject:
 
-/usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportinfo.h:
+QtAppForCam-LSY201-TTL-INF_autogen/YN6D6BICVT/moc_receiverthread.cpp:
 
-/usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qtserialportexports.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qvarianthash.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qjniobject.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialport.h:
+/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyle.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qcborcommon.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qtsan_impl.h:
 
-/usr/include/asm-generic/errno.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/QThread:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qassociativeiterable.h:
+
+/usr/include/c++/12/mutex:
+
+/usr/local/include/opencv4/opencv2/objdetect/face.hpp:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qdeadlinetimer.h:
+
+/usr/include/c++/12/bits/std_mutex.h:
+
+/usr/include/c++/12/bits/atomic_futex.h:
+
+QtAppForCam-LSY201-TTL-INF_autogen/YPB6MEUM2W/moc_mngsportsetting.cpp:
+
+/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyleoption.h:
 
 /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mainwindow.cpp:
 
 /usr/local/include/opencv4/opencv2/flann/random.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariant:
+
+/usr/include/x86_64-linux-gnu/qt6/QtGui/qtextcursor.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtGui/QAction:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qoperatingsystemversion.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenu.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenuBar:
 
@@ -7099,10 +7134,6 @@ QtAppForCam-LSY201-TTL-INF_autogen/YPB6MEUM2W/moc_mngsportsetting.cpp:
 /usr/include/c++/12/bits/algorithmfwd.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtGui/QIcon:
-
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qoperatingsystemversion.h:
-
-/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenu.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QStatusBar:
 
@@ -7207,7 +7238,3 @@ QtAppForCam-LSY201-TTL-INF_autogen/include/settings/ui_serialportsettings.h:
 /usr/include/c++/12/locale:
 
 /usr/include/c++/12/bits/locale_facets.tcc:
-
-/usr/lib/gcc/x86_64-linux-gnu/12/include/avx512dqintrin.h:
-
-/usr/include/x86_64-linux-gnu/c++/12/bits/time_members.h:

@@ -334,9 +334,21 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qcursor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabwidget.h \
- /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/QtAppForCam-LSY201-TTL-INF_autogen/include/./ui_mainwindow.h \
- /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariant \
- /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariant.h \
+ /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QDialog \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPortInfo \
+ /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportinfo.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialportglobal.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qtserialportexports.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/QSerialPort \
+ /usr/include/x86_64-linux-gnu/qt6/QtSerialPort/qserialport.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h \
+ /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QSettings \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qsettings.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
@@ -348,7 +360,17 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qinputmethod.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qlocale.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qguiapplication_platform.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
+ /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/QtAppForCam-LSY201-TTL-INF_autogen/include/./ui_mainwindow.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariant \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariant.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/QAction \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/qaction.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenu \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenu.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenuBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenubar.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenu.h \
