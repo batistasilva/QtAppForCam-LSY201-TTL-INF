@@ -23,12 +23,9 @@ public:
 
 private slots:
     void runSerialPortSettings();
-    void runMainSendToFirst();
-  //  void receiveDataFromFirst();
-    void receiveRequestFromFirst();
+
 
 private:
     Ui::MainWindow *ui;
-    SerialPortSettings *msportset;
 };
 #endif // MAINWINDOW_H

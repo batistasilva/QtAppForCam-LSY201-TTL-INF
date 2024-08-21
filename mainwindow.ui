@@ -33,9 +33,6 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
   <action name="myActionSettings">
-   <property name="checkable">
-    <bool>true</bool>
-   </property>
    <property name="icon">
     <iconset theme="applications-utilities"/>
    </property>

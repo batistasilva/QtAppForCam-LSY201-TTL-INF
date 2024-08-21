@@ -36,10 +36,7 @@ private slots:
     void runConfigTest();
     void runSaveConfig();
     void restoreDefaultConfig();
-    void sendCommanToMain();
 
-signals:
-    void askTextSignalToMain();
 
 private:
     Ui::SerialPortSettings * ui;

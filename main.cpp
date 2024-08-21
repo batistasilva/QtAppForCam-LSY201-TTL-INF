@@ -1,5 +1,5 @@
 #include "mainwindow.h"
-
+//#include "settings/serialportsettings.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
@@ -9,6 +9,9 @@ int main(int argc, char *argv[])
 
     a.setApplicationName("QtAppForCam-LSY201-TTL-INF");
     a.setOrganizationName("QtAppForCam-LSY201");//For create folder to settings
+
+    //SerialPortSettings se_settings;
+    //se_settings.show();
 
     w.show();
 

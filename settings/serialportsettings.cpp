@@ -405,14 +405,6 @@ void SerialPortSettings::restoreDefaultConfig()
 
     qDebug() << "Restore Default Config()" << "\n";
 
-    sendCommanToMain();
-
-}
-
-void SerialPortSettings::sendCommanToMain()
-{
-    qDebug() << "Ask Text data to Main...";
-    emit this->askTextSignalToMain();
 }
 
 
