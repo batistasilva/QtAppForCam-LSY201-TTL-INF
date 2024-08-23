@@ -28,6 +28,7 @@
      <string>Menu</string>
     </property>
     <addaction name="myActionSettings"/>
+    <addaction name="actionmyActionSerial"/>
    </widget>
    <addaction name="menuMenu"/>
   </widget>
@@ -40,10 +41,55 @@
     <string>Settings</string>
    </property>
   </action>
+  <action name="actionmyActionSerial">
+   <property name="icon">
+    <iconset theme="tools-check-spelling"/>
+   </property>
+   <property name="text">
+    <string>Manager Data Cam</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::NoRole</enum>
+   </property>
+  </action>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>actionmyActionSerial</sender>
+   <signal>triggered()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>runMngSerialCamData()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>399</x>
+     <y>299</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>myActionSettings</sender>
+   <signal>triggered()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>runSerialPortSettings()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>399</x>
+     <y>299</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
  <slots>
   <slot>runSerialPortSettings()</slot>
+  <slot>runMngSerialCamData()</slot>
  </slots>
 </ui>

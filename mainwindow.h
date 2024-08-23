@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include "settings/serialportsettings.h"
+#include "serialport/mserialport.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -11,6 +12,7 @@ class MainWindow;
 QT_END_NAMESPACE
 
 class SerialPortSettings;
+class MSerialPort;
 
 class MainWindow : public QMainWindow
 {
@@ -23,6 +25,7 @@ public:
 
 private slots:
     void runSerialPortSettings();
+    void runMngSerialCamData();
 
 
 private:

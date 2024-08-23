@@ -702,10 +702,24 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.s
 
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.s
+
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o: QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp
 
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.i: cmake_force
@@ -728,6 +742,7 @@ QtAppForCam__LSY201__TTL__INF_OBJECTS = \
 "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o" \
 "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o" \
 "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o" \
 "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o"
 
 # External object files for target QtAppForCam-LSY201-TTL-INF
@@ -743,6 +758,7 @@ QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/glo
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/build.make
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libQt6SerialPort.so.6.4.2
@@ -767,7 +783,7 @@ QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_flann.so.4.10.0
 QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_imgproc.so.4.10.0
 QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_core.so.4.10.0
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable QtAppForCam-LSY201-TTL-INF"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable QtAppForCam-LSY201-TTL-INF"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

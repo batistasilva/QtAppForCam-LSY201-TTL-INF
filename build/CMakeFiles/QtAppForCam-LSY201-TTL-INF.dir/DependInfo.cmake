@@ -8,9 +8,18 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o.d"
   "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o.d"
   "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/main.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o.d"
   "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mainwindow.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/receiverthread.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/senderthread.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/globals.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/showmsg.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o.d"
+  "/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/videoutil.cpp" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o" "gcc" "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o.d"
   )
 
 # Targets to which this target links.

@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF_autogen"
+  "QtAppForCam-LSY201-TTL-INF_autogen/include/serialport/ui_mserialport.h"
+  "QtAppForCam-LSY201-TTL-INF_autogen/include/settings/ui_serialportsettings.h"
   "QtAppForCam-LSY201-TTL-INF_autogen/include/ui_mainwindow.h"
   "QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp"
 )

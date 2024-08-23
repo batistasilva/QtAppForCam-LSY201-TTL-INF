@@ -36,10 +36,13 @@ add_executable(QtAppForCam-LSY201-TTL-INF
    uvideo/globals.h
    uvideo/showmsg.cpp
    uvideo/showmsg.h
-   uvideo/videoutil.cpp
    uvideo/videoutil.h
-   settings/mngsportsetting.h settings/mngsportsetting.cpp
+   uvideo/videoutil.cpp
+   settings/mngsportsetting.h
+   settings/mngsportsetting.cpp
    mimages.qrc
+   serialport/mserialport.h
+   serialport/mserialport.cpp
 )
 target_link_libraries(QtAppForCam-LSY201-TTL-INF
         Qt::Core

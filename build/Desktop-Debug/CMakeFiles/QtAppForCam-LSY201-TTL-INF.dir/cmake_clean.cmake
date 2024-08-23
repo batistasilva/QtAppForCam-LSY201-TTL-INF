@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o.d"
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o"
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o"
+  "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o.d"
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o"
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o.d"
   "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o"

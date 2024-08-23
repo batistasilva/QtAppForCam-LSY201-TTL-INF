@@ -69,10 +69,503 @@ include CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
 
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mimages.qrc
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: CMakeFiles/QtAppForCam-LSY201-TTL-INF_autogen.dir/AutoRcc_mimages_EWIEGA46WW_Info.json
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/SerialPortConnect.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/RiAERjpBT-1059191921.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/serial-port-icon-4-3643391407.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/Screenshot\ 2024-06-02\ at\ 17-18-56\ Video\ free\ icon\ designed\ by\ graphicmall.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/vspc-icon-256-3061434391.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/SerialPortDisconmect.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/serial-port-icon-10-3082180066.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/RS232-or-DB9-female-connector_0-2502610229.jpeg
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/SerialPortConnect.xcf
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Stock_keyring.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-x-font-afm.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-pgp.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-refresh.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-loading-icon.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-settings-accessibility-keyboard.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-goto-last-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-home.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Web-browser.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gcalctool.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-System-floppy.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-desktop.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-network.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-dev-floppy.svg.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Searchtool.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-bold.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-zoom-fit.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-x-font-ttf.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-redo-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Nuvola_gnome-fs-trash-full.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-find-and-replace.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Hwbrowser.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-devel.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Emblem-web.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-text-x-sql.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-directory.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-text.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-ssh.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-underline.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-cut.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Stock_alarm.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Nuvola_actions_help.svg.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-x-tex.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-settings-keybindings.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-directory-visiting.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Screensaver.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-dev-floppy.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-system-config.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-save-as.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-directory-accept.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-undo-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-dev-removable-usb.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-go-up.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-dialog-info.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Nuvola_gnome-fs-trash-empty.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gdict.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-goto-first-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-zoom-in.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Password.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-find.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-strikethrough.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gedit.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-User_icon.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-pdf.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Exithome.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-dev-network.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-dev-printer.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-pdf.svg.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-x-font-psf.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-x-abiword.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-quit.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-revert-to-saved-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/system-config-users-120px.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-go-forward-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-searchtool.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-go-down.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-blockdev.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-File-manager.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-system.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-reload.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-settings-background.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-zoom-100.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-go-back-ltr.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-terminal.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-x-font.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-pgp-encrypted.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-settings-theme.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Tsclient.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-x-readme.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-print-preview.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-smb.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-video-quicktime.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-postscript.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-attachment.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-executable.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-server.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Nuvola_apps_important.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-web.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-System-search-32.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-text-x-credits.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gtk-zoom-out.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-dev-harddisk.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-directory.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-fs-client.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/120x120/120px-Gnome-mime-application-vnd.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/22x22/laptop_batery.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-pos-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/System-search-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/2rightarrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_wizard-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Laptop_nobattery-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_find-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Signature-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_lock-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_top-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-fs-home-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/System-floppy-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Configure48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/battery-charging-100.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_key1-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Revert-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-dev-floppy.svg-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Window_new-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_info-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_cancel-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Fileclose-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Search_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/signature-48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_up-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/InfoBox.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_cut-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-sales-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_reply-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_send-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Exithome-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Forward-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledgreen-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kalarm-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Redo-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-payable-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-edit-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Noatunloopsong-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Encrypted-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/2uparrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_delete-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-production-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_import-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Cancel2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-hr-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/History_clear-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_get-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/2leftarrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledlightblue-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Wait_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_pencil-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1352388823_note2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_down-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/battery-discharging-000.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledblue-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-dev-printer-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-till-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-suppliers-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-money-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Laptop_charge-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Search2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_show-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledorange-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-stock-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kaboodleloop-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/ErrorCircle.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_identity-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-users-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/gpg_sign-40x40.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_key3-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_help-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Wait.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-clients-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Irkickflash-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-receiving-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Cancel2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Search.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Save_all-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Connect_creating-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/2downarrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1352390708_game_controller.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Irkick-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Connect_established-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-bills-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/battery-discharging-060.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_replyall-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledlightgreen-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_attach.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Filesave-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Laptop_nocharge-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledyellow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Favorites.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Fileprint-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledred-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1rightarrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_export-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/InfoBox_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-dev-harddisk-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-conference-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/battery-discharging-080.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Project_open-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1352388769_chronometer.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Finish-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gtk-quit-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/battery-discharging-100.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_forward-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Bottom-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/delete-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Rebuild-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_key2-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_undo-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-admin-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_no-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-mime-application-pdf-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_edit-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-delivery-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-services-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-purchase-app-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Frameprint-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_term-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_sign-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Filenew-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1leftarrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1downarrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/battery-discharging-020.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/History-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_find-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Nuvola_actions_back-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Filequickprint-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Mail_generic-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kdevelop_down-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-Edit-Clear-48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Filesaveas-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Newfont-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Favorites_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Revert-to-saved-ltr-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Irkickoff-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Fileopen-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Connect_no-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/stoq-products-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kgpg_gen-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Messagebox_info-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/ErrorCircle_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Save-as-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Edittrash-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Gnome-dev-harddisk-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Laptop_power-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Kalarm_disabled-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/OKShield.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Decrypted-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Search2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/1uparrow-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Ledpurple-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/OKShield_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/48x48/Fileexport-48x48.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/icon_sandclock.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/gpm-primary-100-charging.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Circle_Blue.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/go-home.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Box_Green.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Circle_Green.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/NetworkDrive_Online.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/stock_folder-move-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Circle_Orange.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/MicrophoneDisabled.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/gnome-session-logout-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/floppy_unmount-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/system-software-update.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/redhat-starthere.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Search_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/agt_action_success-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/idea.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/kmixdocked_mute.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/power.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/user-group-new-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/barcode-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/InfoBox.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/stock_task.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/stock_cell-phone.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/user-group-new.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/shine_22.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/home-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/phone.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/my_computer.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/wireless-signal.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/agt_action_fail1-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/user-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/edit-clear-right-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Cancel2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/telephone_blue-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/wlassistant.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Wait_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/blocks-nm-signal-00.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/kbugbuster.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/MicrophoneHot.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/blocks-gnome-netstatus-25-49.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/package_games_arcade.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/blocks-gnome-netstatus-0-24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Box_Grey-1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Search2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/boot.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/gnome-session-reboot-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/acroread-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/old-edit-redo.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/robot_android_platform.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/social_facebook_box_blue.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/ErrorCircle.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Box_Grey.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/USB\ Wireless.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/joystick.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/exchange-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/stock_weather-cloudy-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/1377558323_gnome-mime-application-vnd.ms-powerpoint.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/monitor-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/print.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Wait.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Add-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/preferences-contact-list.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/social_yahoo_box_lilac.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/microphone\ blue.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/preferences-system-power-management.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/package_settings.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Reload-01.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/blocks-gnome-netstatus-75-100.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/usbpendrive_mount.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Cancel2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/antenna-parabolica.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Circle_Yellow.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Search.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/old-edit-undo-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/iEngrenages.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/klaptopdaemon.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Youtube_128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/pignon.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/gpm-primary-080-charging.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/application-x-sqlite2-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/preferences-system-power-management-2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Favorites.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/social_twitter_box_blue.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/button_blue_repeat-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/mail-send-receive-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/microphone\ red.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/old-go-down-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/db_update-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/accept-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/InfoBox_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Games.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/USBFlashCardWithCardReader2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/atom.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/send-icon-256-256.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/signature-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/old-edit-redo-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/application-xml-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/rss_blue-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/network-wireless-b.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/cog-icon-2-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Circle_Red.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/edit-clear-left-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/ktip.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/youtube.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Sony\ Playstation.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/info-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/gnome-system-config-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Signal-1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/delete-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/signal.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/process-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Circle_Grey.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/exit.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/alarmd.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Down-arrow-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/battery_empty.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/linkedin.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/testimonials.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Power-Shutdown.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/kblogger.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Service\ Manager.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/mail_sent-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/agt_update_drivers-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/blocks-gnome-netstatus-50-74.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/network.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/laptop_battery.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/search-128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/edit-clear-tright-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/iWarning.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/rain-shine.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/network-wireless.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/gnome-panel-window-menu-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Power-01.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/mobile-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/DrawingPin1_Blue.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/social_skype_box_blue.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Favorites_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/application-pgp-signature.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/application-vnd.ms-excel-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/ErrorCircle_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/chip.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/icon_send-128x128.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/OKShield.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/Search2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/advancedsettings.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/128x128/OKShield_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Project_open-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/sign24-24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-money-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-admin-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/exit-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/search-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/new-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/cut-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Gtk-quit-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-stock-app-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Search2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Favorites.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/open-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Gnome-fs-home-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/accept-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Save-as-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/System-search-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/add-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-money-add-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/InfoBox_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/ErrorCircle.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Search_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Gnome-dev-floppy.svg-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-inventory-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/InfoBox.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Gnome-mime-application-pdf-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-pos-app-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-products-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Wait.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Favorites_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Revert-to-saved-ltr-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Exithome-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/copy-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Gnome-dev-printer-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/delete-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-money-remove-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/reload-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/ErrorCircle_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/accept2-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/System-floppy-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/delete2-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Gnome-dev-harddisk-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/OKShield.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-delivery-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Cancel2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/paste-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-hr-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-till-app-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Search2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/stoq-purchase-app-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Cancel2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Search.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/cancelar-24x24.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/Wait_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/24x24/OKShield_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Search2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Favorites.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-money-remove-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-stock-app-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/InfoBox_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/ErrorCircle.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Search_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-pos-app-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/InfoBox.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Wait.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Favorites_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-admin-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-products-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-money-add-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-hr-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/ErrorCircle_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-delivery-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/OKShield.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Cancel2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-till-app-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Search2_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-lock-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Cancel2.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/stoq-users-16x16.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Search.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/Wait_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/Images/16x16/OKShield_1.png
+QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp: /usr/lib/qt6/libexec/rcc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for mimages.qrc"
+	/usr/bin/cmake -E cmake_autorcc /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/QtAppForCam-LSY201-TTL-INF_autogen.dir/AutoRcc_mimages_EWIEGA46WW_Info.json 
+
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o: QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp
 
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.i: cmake_force
@@ -86,7 +579,7 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/moc
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/main.cpp
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/main.cpp
 
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.i: cmake_force
@@ -100,7 +593,7 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.s: cmake_force
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mainwindow.cpp
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mainwindow.cpp
 
 CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.i: cmake_force
@@ -111,11 +604,146 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/mainwindow.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.s
 
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/serialportsettings.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/receiverthread.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/receiverthread.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/receiverthread.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/receiverthread.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/senderthread.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/senderthread.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/senderthread.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/senderthread.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/globals.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/globals.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/globals.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/globals.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/showmsg.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/showmsg.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/showmsg.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/showmsg.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/videoutil.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/videoutil.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/videoutil.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/uvideo/videoutil.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/settings/mngsportsetting.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o: /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/serialport/mserialport.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.s
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/flags.make
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o: QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o -MF CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o.d -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o -c /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp > CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.i
+
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp -o CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.s
+
 # Object files for target QtAppForCam-LSY201-TTL-INF
 QtAppForCam__LSY201__TTL__INF_OBJECTS = \
 "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o" \
-"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o"
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o" \
+"CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o"
 
 # External object files for target QtAppForCam-LSY201-TTL-INF
 QtAppForCam__LSY201__TTL__INF_EXTERNAL_OBJECTS =
@@ -123,15 +751,39 @@ QtAppForCam__LSY201__TTL__INF_EXTERNAL_OBJECTS =
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/mocs_compilation.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/main.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/mainwindow.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/serialportsettings.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/receiverthread.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/senderthread.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/globals.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/showmsg.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/uvideo/videoutil.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/settings/mngsportsetting.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/serialport/mserialport.cpp.o
+QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp.o
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/build.make
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libQt6SerialPort.so.6.4.2
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_gapi.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_highgui.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_ml.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_objdetect.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_photo.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_stitching.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_video.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_videoio.so.4.10.0
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libQt6Gui.so.6.4.2
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libGLX.so
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 QtAppForCam-LSY201-TTL-INF: /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_imgcodecs.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_dnn.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_calib3d.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_features2d.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_flann.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_imgproc.so.4.10.0
+QtAppForCam-LSY201-TTL-INF: /usr/local/lib/libopencv_core.so.4.10.0
 QtAppForCam-LSY201-TTL-INF: CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable QtAppForCam-LSY201-TTL-INF"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable QtAppForCam-LSY201-TTL-INF"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -142,7 +794,7 @@ CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/clean
 
-CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/depend:
+CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/depend: QtAppForCam-LSY201-TTL-INF_autogen/EWIEGA46WW/qrc_mimages.cpp
 	cd /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build /home/system/WorkSpace/QtProjects/QtVideo/QtAppForCam-LSY201-TTL-INF/build/CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/QtAppForCam-LSY201-TTL-INF.dir/depend
 
